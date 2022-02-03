@@ -17,5 +17,5 @@ spring:
       host: localhost
       port: 27000
       username: bilgeadamuser
-      password: !bilgeadam
+      password: '!bilgeadam'
       database: socialmedia
