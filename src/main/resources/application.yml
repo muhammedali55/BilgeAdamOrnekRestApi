@@ -6,7 +6,7 @@ spring:
     driverClassName: org.postgresql.Driver
     username: postgres
     password: root
-    url: jdbc:postgresql://localhost:5555/Ornek
+    url: jdbc:postgresql://192.168.1.1:5555/Ornek
   jpa:
     show-sql: true
     hibernate:
